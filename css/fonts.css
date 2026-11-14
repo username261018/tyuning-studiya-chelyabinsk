@@ -1,28 +1,5 @@
-@font-face{
-  font-family:"Cormorant Garamond";
-  src:url("../fonts/cormorant-600.woff2") format("woff2");
-  font-weight:600;
-  font-style:normal;
-  font-display:swap;
-}
-@font-face{
-  font-family:"Cormorant Garamond";
-  src:url("../fonts/cormorant-italic-500.woff2") format("woff2");
-  font-weight:500;
-  font-style:italic;
-  font-display:swap;
-}
-@font-face{
-  font-family:"Libre Franklin";
-  src:url("../fonts/libre-franklin-400.woff2") format("woff2");
-  font-weight:400;
-  font-style:normal;
-  font-display:swap;
-}
-@font-face{
-  font-family:"Libre Franklin";
-  src:url("../fonts/libre-franklin-600.woff2") format("woff2");
-  font-weight:600;
-  font-style:normal;
-  font-display:swap;
-}
+@font-face{font-family:"Playfair Display";src:url("../fonts/playfair-i500.woff2") format("woff2");font-weight:500;font-style:italic;font-display:swap}
+@font-face{font-family:"Playfair Display";src:url("../fonts/playfair-500.woff2") format("woff2");font-weight:500;font-style:normal;font-display:swap}
+@font-face{font-family:"Manrope";src:url("../fonts/manrope-var.woff2") format("woff2");font-weight:400 700;font-style:normal;font-display:swap}
+@font-face{font-family:"Playfair fb";src:local("Georgia");size-adjust:104%;ascent-override:96%}
+@font-face{font-family:"Manrope fb";src:local("Arial");size-adjust:103%}
